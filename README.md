@@ -2,7 +2,7 @@
 
 ![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 [![build](https://github.com/tpapp/LaTeXCompilers.jl/workflows/CI/badge.svg)](https://github.com/tpapp/LaTeXCompilers.jl/actions?query=workflow%3ACI)
-<!-- NOTE: Codecov.io badge now depends on the token, copy from their site after setting up -->
+[![codecov](https://codecov.io/github/tpapp/LaTeXCompilers.jl/graph/badge.svg?token=cDFCDanjdI)](https://codecov.io/github/tpapp/LaTeXCompilers.jl)
 [![Aqua QA](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl)
 
 Compile LaTeX code from Julia.
