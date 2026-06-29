@@ -1,7 +1,7 @@
 name = "LaTeXCompilers"
 uuid = "90294288-587b-4593-a557-cb1db79f8ded"
 authors = ["Tamás K. Papp <tkpapp@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
